@@ -10,20 +10,61 @@
 [![Facebook](https://img.shields.io/badge/Facebook-MohammadJarrar-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mohammad.jarrar.315/)
 
 ## Languages and Tools:
-[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://css.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Verilog](https://img.shields.io/badge/Verilog-EF2D5E?style=for-the-badge&logoColor=white)](https://www.verilog.com/)
 
+<a href="https://www.cprogramming.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="50"/>
+</a>
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/c14be797-4ece-4ace-9886-463eeb435455" alt="Java" width="70"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://github.com/user-attachments/assets/be976737-3b89-4cd8-8578-b6e446083da9" alt="HTML5" width="70"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://github.com/user-attachments/assets/56f463cb-35a2-4bf2-9658-c9b2cb716ad3" alt="CSS3" width="60"/>
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/064b7f4a-7931-47df-8457-46cda3c4dea9" alt="Linux" width="50"/>
+</a>
+
+<a href="https://developer.android.com/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/03aa8838-b4c4-4f23-b3cc-853384e99d5a" alt="Android" width="50"/>
+</a>
+
+<a href="https://www.arduino.cc/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/de14a322-3053-47f5-bb07-32639eb817b6" alt="Arduino" width="60"/>
+</a>
+
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/bdae11da-9158-48e7-aab5-2802e364358f" alt="Git" width="60"/>
+</a>
+
+<a href="https://www.postman.com/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/34a31669-980f-4da1-8e74-1d5b0c029753" alt="Postman" width="60"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/924f1165-1a3a-4e7e-8fb9-ae2fe6d59fec" alt="Python" width="70"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/43fdb974-d361-491f-9d51-da07682fbc6a" alt="MySQL" width="70"/>
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/e53b952d-71a1-4c1e-9d98-185fa6760d5e" alt="PostgreSQL" width="50"/>
+</a>
+
+<a href="https://en.wikipedia.org/wiki/Verilog" target="_blank">
+  <img src="https://github.com/user-attachments/assets/c0a269fd-e663-495b-8e38-5560aa8ea9f6" alt="Verilog" width="80"/>
+</a>
+
+<a href="https://learn.microsoft.com/en-us/certifications/exams/ai-102" target="_blank">
+  <img src= "https://github.com/user-attachments/assets/9e0dfae5-ac56-4bc9-803d-32505c2868a5" alt="AI-102" width="60"/>
+</a>
 
 
 ## My GitHub Stats:
