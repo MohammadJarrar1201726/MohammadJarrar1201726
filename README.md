@@ -59,7 +59,10 @@
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Verilog" target="_blank">
-  <img src="https://github.com/user-attachments/assets/c0a269fd-e663-495b-8e38-5560aa8ea9f6" alt="Verilog" width="80"/>
+  <img src="https://github.com/user-attachments/assets/c0a269fd-e663-495b-8e38-5560aa8ea9f6" alt="Verilog" width="70"/>
+</a>
+<a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/0bc56320-f486-4918-9bee-da3ba25f6568" alt="Azure DevOps" width="60"/>
 </a>
 
 <a href="https://learn.microsoft.com/en-us/certifications/exams/ai-102" target="_blank">
