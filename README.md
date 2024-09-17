@@ -54,9 +54,8 @@
   <img src="https://github.com/user-attachments/assets/43fdb974-d361-491f-9d51-da07682fbc6a" alt="MySQL" width="70"/>
 </a>
 
-<a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/e53b952d-71a1-4c1e-9d98-185fa6760d5e" alt="PostgreSQL" width="50"/>
-</a>
+
+
 
 <a href="https://en.wikipedia.org/wiki/Verilog" target="_blank">
   <img src="https://github.com/user-attachments/assets/c0a269fd-e663-495b-8e38-5560aa8ea9f6" alt="Verilog" width="70"/>
