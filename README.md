@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @MohammadJarrar1201726  
+# 👋 Hi, I’m @MohammadJarrar
 ---
 ### Computer Engineering Student at Birzeit University
 
