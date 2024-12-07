@@ -3,7 +3,7 @@
 ### Computer Engineering Student at Birzeit University
 
 - 🌱 I’m currently learning **Spring Boot Framework**  
-- 📫 How to reach me: [120176@student.birzeit.edu](mailto:120176@student.birzeit.edu)  
+- 📫 How to reach me: [jarrarmohammad278@gmail.com](mailto:jarrarmohammad278@gmail.com)  
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MohammadJarrar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammad-jarrar-2310a430b/)
