@@ -67,6 +67,9 @@
 <a href="https://learn.microsoft.com/en-us/certifications/exams/ai-102" target="_blank">
   <img src= "https://github.com/user-attachments/assets/9e0dfae5-ac56-4bc9-803d-32505c2868a5" alt="AI-102" width="60"/>
 </a>
+<a href="https://spring.io/projects/spring-boot" target="_blank">
+  <img src="https://cdn.simpleicons.org/springboot" alt="Spring Boot" width="60"/>
+</a>
 
 
 ## My GitHub Stats:
