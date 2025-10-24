@@ -71,11 +71,12 @@
   <img src="https://cdn.simpleicons.org/springboot" alt="Spring Boot" width="60"/>
 </a>
 
-
+<!---
 ## My GitHub Stats:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadJarrar1201726&layout=compact)
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammadJarrar1201726&show_icons=true&theme=radical)
+--->
 
 <!---
 MohammadJarrar1201726/MohammadJarrar1201726 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
